@@ -95,9 +95,7 @@
 
 var $ = __webpack_require__(/*! jquery */ "./node_modules/jquery/dist/jquery.js");
 
-$(document).ready(function () {
-  menuOnHover();
-}); // $('.menu_item').hover(function() {
+$(document).ready(function () {}); // $('.menu_item').hover(function() {
 //   $('.header_nav_bottom_border').css({
 //     'min-width': '95.3vw',
 //     'transition': 'min-width 1s'
